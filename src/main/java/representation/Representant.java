@@ -12,6 +12,7 @@ public class Representant {
 		this.numero = numero;
 		this.nom = nom;
 		this.prenom = prenom;
+		//dfdd
 	}
 
 	public int getNumero() {
